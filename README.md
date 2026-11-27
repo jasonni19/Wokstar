@@ -62,7 +62,23 @@ We conducted semi-structured interviews for all our users in our user research. 
   </tr>
 </table>
 
+## Sketches and Storyboard
 
 
+## Parallel Prototypes
 
+### Prototype 1: Branching exploration map
+Users start at their current kitchen setup and follow branches such as “Add potato” to see newly available recipes.
+
+![](https://i.imgur.com/BML9eDt.png)
+
+### Prototype 2: Recipe comparison cards
+Users see recipes grouped into “Ready now” and “One change away,” with each card explaining the required change.
+
+![](https://i.imgur.com/6XlNtlk.png)
+
+### Prototype 3: Guided decision flow
+Users answer short questions such as “Can you add one ingredient?” and receive a focused recommendation, with an option to see alternatives.
+
+![](https://i.imgur.com/FAxyXDb.png)
 
