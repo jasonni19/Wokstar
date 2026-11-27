@@ -82,5 +82,11 @@ Users answer short questions such as “Can you add one ingredient?” and recei
 
 ![](https://i.imgur.com/FAxyXDb.png)
 
-We chose to integrate the **branching map system** (Prototype 1) because it is visually the most efficient for showing how changes to a user's kitchen inventory can unlock new recipes. Rather than presenting users with a traditional list of recipes, the branching map allows users to easily visualize the relationship between their available ingredients and potential dishes. Users can explore how adding or substituting certain ingredients expands their cooking possibilities, helping them make more informed decisions about what to purchase and prepare.
+### We chose to integrate the **branching map system** (Prototype 1) because it is visually the most efficient for showing how changes to a user's kitchen inventory can unlock new recipes. Rather than presenting users with a traditional list of recipes, the branching map allows users to easily visualize the relationship between their available ingredients and potential dishes. Users can explore how adding or substituting certain ingredients expands their cooking possibilities, helping them make more informed decisions about what to purchase and prepare.
+
+## Design Goals:
+
+## Demo Video:
+
+## Usability Test Findings
 
