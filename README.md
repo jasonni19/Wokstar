@@ -113,8 +113,6 @@ Our final system **mostly reflects** this design goal. We allow users to set a m
 
 ## Usability Test Findings
 
-## Usability Test Findings
-
 | Finding | What We Would Change Next |
 |---|---|
 | Beginners were unsure where to start on the branching map. | Add a short walkthrough highlighting “Your kitchen” and the first branch. ✅ |
