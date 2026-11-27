@@ -6,7 +6,7 @@ Users who possess basic cooking skills may want to try making Asian food because
 
 ## User Research
 
-We conducted semi-structured interviews for all our users in our user research. We also classified users into 2 classes: Novice Cook, Experienced Cook
+We conducted semi-structured interviews for all our users in our user research. We also classified users into 2 classes: **Novice Cook** and **Experienced Cook**
 
 <table style="width: 100%;">
   <tr>
