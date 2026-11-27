@@ -109,5 +109,20 @@ Our final system **mostly reflects** this design goal. We allow users to set a m
     allowfullscreen>
 </iframe>
 
+*Note: this demo was recorded when the app was using a older frontend.*
+
 ## Usability Test Findings
+
+## Usability Test Findings
+
+| Finding | What We Would Change Next |
+|---|---|
+| Beginners were unsure where to start on the branching map. | Add a short walkthrough highlighting “Your kitchen” and the first branch. ✅ |
+| Users wanted suggestions even when they lacked several ingredients. | Show the closest recipes and clearly list every missing item. ✅ |
+| Recipe cards were easy to scan, but comparing missing ingredients across dishes took effort. | Highlight shared missing ingredients so users can see what one purchase would unlock. |
+| Experienced cooks found the guided questions slower than browsing directly. | Add a “Skip questions and browse” option. |
+| Entering ingredients manually felt tedious. | Add ingredient suggestions, common pantry presets, and a way to reuse a saved kitchen. |
+| The branching map required too much scrolling on phones. | Offer a compact list view alongside the map. |
+
+*Note: ✅ means suggested change was implemented.*
 
