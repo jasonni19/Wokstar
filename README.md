@@ -109,7 +109,7 @@ Our final system **mostly reflects** this design goal. We allow users to set a m
     allowfullscreen>
 </iframe>
 
-*Note: this demo was recorded when the app was using a older frontend.*
+*Note: this demo was recorded when the app was using an older frontend.*
 
 ## Usability Test Findings
 
