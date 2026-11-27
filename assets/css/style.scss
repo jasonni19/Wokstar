@@ -1,0 +1,40 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Remove left sidebar */
+header {
+    display: none !important;
+}
+
+/* Center the main content */
+.wrapper {
+    width: 90%;
+    max-width: 1100px;
+    margin: 0 auto;
+}
+
+/* Expand the main content */
+section {
+    float: none;
+    width: 100%;
+    box-sizing: border-box;
+    margin: 0 auto;
+}
+
+/* Fix table vertical alignment */
+td {
+    vertical-align: top !important;
+}
+
+/* Make table columns equal width */
+table {
+    width: 100%;
+    table-layout: fixed;
+}
+
+/* Remove alternating table colors */
+tr:nth-child(even) {
+    background-color: transparent;
+}
