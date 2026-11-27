@@ -66,6 +66,7 @@ We conducted semi-structured interviews for all our users in our user research. 
 
 
 ## Parallel Prototypes
+We chose to integrate the **branching map system** (Prototype 1) because it is visually the most efficient for showing how changes to a user's kitchen inventory can unlock new recipes. Rather than presenting users with a traditional list of recipes, the branching map allows users to easily visualize the relationship between their available ingredients and potential dishes. Users can explore how adding or substituting certain ingredients expands their cooking possibilities, helping them make more informed decisions about what to purchase and prepare.
 
 ### Prototype 1: Branching exploration map
 Users start at their current kitchen setup and follow branches such as “Add potato” to see newly available recipes.
@@ -82,9 +83,21 @@ Users answer short questions such as “Can you add one ingredient?” and recei
 
 ![](https://i.imgur.com/FAxyXDb.png)
 
-We chose to integrate the **branching map system** (Prototype 1) because it is visually the most efficient for showing how changes to a user's kitchen inventory can unlock new recipes. Rather than presenting users with a traditional list of recipes, the branching map allows users to easily visualize the relationship between their available ingredients and potential dishes. Users can explore how adding or substituting certain ingredients expands their cooking possibilities, helping them make more informed decisions about what to purchase and prepare.
 
 ## Design Goals:
+### Design Goal 1: Make Asian recipes easy to understand and follow.
+**Goal**: Organize recipes into clear, manageable steps that help users cook efficiently without feeling overwhelmed.
+\
+Why it matters: In our user interviews, Jessie mentioned that he could cook almost any dish when provided with a concrete, step-by-step recipe. This suggests that clear recipe organization is important for helping users successfully prepare unfamiliar Asian dishes.
+
+Our final system **fully reflects** this design goal. Our branching system provides concrete steps for each recipe and allows users to view beginner (more detailed) and concise steps. We also provide a full list of ingredients, necessary cooking equipment, cooking time, and other information for the user.
+
+### Design Goal 2: Help users discover and prepare Asian dishes that match their interests and skill levels.
+**Goal**: Allow users to find recipes based on their preferred cuisine, available ingredients, and cooking experience.
+\
+**Why it matters**: Our user research showed that people are interested in cooking Asian cuisine but may have different levels of experience and familiarity with certain dishes. For example, our interview participant Jennifer enjoyed cooking Asian food and felt confident following recipes when given clear, step-by-step instructions.
+
+Our final system **mostly reflects** this design goal. We allow users to set a max difficulty on the recipes. Thus, the app caters to users of different cooking skill levels. We also allow users to choose what type of Asian cuisine they want to cook such as Chinese, Korean, Japanese etc. However, in order to further match users' interests, we could add more user preference settings, such as preferred flavors, dietary restrictions, favorite ingredients, and maximum cooking time. We could also incorporate a feedback system that learns from recipes users have liked, saved, or previously cooked. This will bolster our app's connection with users' individual tastes, lifestyles, and cooking goals.
 
 ## Demo Video:
 
