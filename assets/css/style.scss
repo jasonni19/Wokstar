@@ -38,3 +38,8 @@ table {
 tr:nth-child(even) {
     background-color: transparent;
 }
+
+/* Hide the footer */
+footer {
+    display: none !important;
+}
