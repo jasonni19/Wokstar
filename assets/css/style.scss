@@ -39,6 +39,15 @@ tr:nth-child(even) {
     background-color: transparent;
 }
 
+/* Position Wokstar logo on the right */
+img.wokstar-logo {
+    float: right !important;
+    width: 200px;
+    height: auto;
+    margin: 0 0 20px 30px;
+    display: block;
+}
+
 /* Hide the footer */
 footer {
     display: none !important;
