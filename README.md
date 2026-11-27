@@ -99,7 +99,15 @@ Our final system **fully reflects** this design goal. Our branching system provi
 
 Our final system **mostly reflects** this design goal. We allow users to set a max difficulty on the recipes. Thus, the app caters to users of different cooking skill levels. We also allow users to choose what type of Asian cuisine they want to cook such as Chinese, Korean, Japanese etc. However, in order to further match users' interests, we could add more user preference settings, such as preferred flavors, dietary restrictions, favorite ingredients, and maximum cooking time. We could also incorporate a feedback system that learns from recipes users have liked, saved, or previously cooked. This will bolster our app's connection with users' individual tastes, lifestyles, and cooking goals.
 
-## Demo Video:
+## Demo Video
+<iframe
+    width="100%"
+    height="450"
+    src="https://www.youtube.com/embed/7Icxe1AHuwA"
+    title="Wokstar Demo Video"
+    frameborder="0"
+    allowfullscreen>
+</iframe>
 
 ## Usability Test Findings
 
